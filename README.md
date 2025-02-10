@@ -55,7 +55,7 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 ## ⚒️ TODO
 
 * [x] Release code
-
+* [x] Release pretrained models
 
 
 ## 🔗 Contents
