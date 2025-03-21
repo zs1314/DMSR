@@ -206,7 +206,7 @@ We kindly request that you cite our work if you utilize the code or reference ou
 @inproceedings{zou2025dmsr,
   title={Learning Dual-Domain Multi-Scale Representations for Single Image Deraining},
   author={Zou, Shun and Zou, Yi and Zhang, Mingya and Luo, Shipeng and Gao, Guangwei and Qi, Guojun},
-  booktitle={},
+  booktitle={ICME},
   year={2025}
 }
 ```
